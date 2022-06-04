@@ -22,12 +22,34 @@ My objective is to set up a mesh and a field of mechanical properties of mouses 
  Coursework: Linear Algebra, Abstract Algebra,Real and Partial  Differntial Equation, Mathematical Modeling, Tensor and Vector Analysis, Real and Vector Analysis,Complex Analysis, Discrete Mathematics, Metric space Topology,Field Theory, Graph Theory, Measure and Integration,Java Programming Language.
  
 -OTHER CERTIFICATIONS
+
+
+
+- My most relevnt technical skils
+
+   * I have been coding using python
+   *  I have been learning  Machine Learning using scikit-learn and pytorch.
+   * I have experience dealing with relational databases(MySQL) and non-relational databases
+   * I have done backened development using PHP and Laravel 
    
- 
+- Some of the things I have built:
+   * Built neural network from scratch using Numpy and Pytorch
+   * Built detection and classification models using python, Pytorch and Scikit-Learn
+   * Built recommendation engine with neural networks and Restricted Boltzman Machines(RBM)
+   * Create a Network using LSTM with NLP to generates character sequences 
+   * Built a U-Net architecture to implement semantic segmentation on a custom dataset.
+   * Built a VAE to generate new images of handwritten digits.
+   *
+   
+- Other accomplishments 
+  * I won the best graduating student of my university during my bachelor program 
 
 
 - 💞️ I’m looking to collaborate on Computer Vision
-- 📫 How to reach me suleimanojo3@gmail.com
+
+- 📫 you can reach me on [Twitter](https://twitter.com/Paragonadey) or [Linkdln](https://www.linkedin.com/in/adebowale-ojo) and my mail address suleimanojo3@gmail.com
+
+
 
 <!---
 adebowalep/adebowalep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
