@@ -23,7 +23,7 @@ My objective is to set up a mesh and a field of mechanical properties of mouses 
  
 - OTHER CERTIFICATIONS:
    * <a href="https://github.com/adebowalep/adebowalep/blob/main/Machine%20learning%20in%20python%20with%20scikit-learnbyinria.pdf" target="_blank">Machine Learning in python with scikit-learn</a>
-   *  <a href="https://github.com/adebowalep/adebowalep/blob/main/Machine%20learning%20in%20python%20with%20scikit-learnbyinria.pdf" target="_blank">PyTorch for Deep Learning with Python Bootcamp</a>
+   *  <a href="https://github.com/adebowalep/adebowalep/blob/main/pytorchfordeeplearningwithpythonbootcamp.pdf" target="_blank">PyTorch for Deep Learning with Python Bootcamp</a>
 
 
 
