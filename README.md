@@ -9,7 +9,7 @@ This is my experience and what I am working on.
 Then, in a second step, I will work on experimental maps of the mechanical properties of the mouses lung acquired using Atomic Force Microscopy technic in IRCAN. MY goal will be to project these maps on the generated mesh without losing too much information during the process.
 My objective is to set up a mesh and a field of mechanical properties of mouses lungs that will be used for future finite elements simulations.
 
-  My Education.
+- My Education.
   
   MASTERS OF SCIENCE (M. Sc.) Mathematics.
   
@@ -21,7 +21,8 @@ My objective is to set up a mesh and a field of mechanical properties of mouses 
  
  Coursework: Linear Algebra, Abstract Algebra,Real and Partial  Differntial Equation, Mathematical Modeling, Tensor and Vector Analysis, Real and Vector Analysis,Complex Analysis, Discrete Mathematics, Metric space Topology,Field Theory, Graph Theory, Measure and Integration,Java Programming Language.
  
- OTHER CERTIFICATIONS
+-OTHER CERTIFICATIONS
+   
  
 
 
