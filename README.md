@@ -48,7 +48,7 @@ My objective is to set up a mesh and a field of mechanical properties of mouses 
   * I won the best graduating student of my university during my bachelor program 
 
 
-- 💞️ I’m looking to collaborate on Computer Vision
+- 💞️ I’m looking to collaborate on Computer Vision   <a href="https://github.com/adebowalep/adebowalep/blob/main/Machine%20learning%20in%20python%20with%20scikit-learnbyinria.pdf" target="_blank">Resume</a>
 
 - 📫 you can reach me on [Twitter](https://twitter.com/Paragonadey) or [Linkdln](https://www.linkedin.com/in/adebowale-ojo) and my mail address suleimanojo3@gmail.com
 
