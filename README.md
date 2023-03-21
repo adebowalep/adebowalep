@@ -1,60 +1,19 @@
-- 👋 Hey!
-- My name is Adebowale, I am a graduate student focussing on applied Machine Learning. 
--  
-- 👀 I am passionate about using AI tools and platforms for individuals and businesses to create smarter software to solve problems that seems unrealistic. 
+Hello there!
 
-This is my experience and what I am working on.
+My name is Adebowale, and I'm a graduate student specializing in applied Machine Learning. My passion lies in using AI tools and platforms to create smarter software that solves seemingly unrealistic problems for individuals and businesses.
 
-- 🌱 I’m currently doing my internship in Laboratoire J.A. Dieudonné  Université de Nice Sophia-AnNpolis / CNRS,where I am  developing a numerical tool to extract 3D geometries from experimental images of mouse lungs, acquired with the Light Sheets technic by C. Feral in IRCAN (Nice). The numerical tool will be adapted from a tool already used in LJAD for scanners of the human lungs. It needs to be adapted to the mouse lung, which is far smaller than the human lung, and to the Light Sheets technic, which produces images with different properties than scanners.
-Then, in a second step, I will work on experimental maps of the mechanical properties of the mouses lung acquired using Atomic Force Microscopy technic in IRCAN. MY goal will be to project these maps on the generated mesh without losing too much information during the process.
-My objective is to set up a mesh and a field of mechanical properties of mouses lungs that will be used for future finite elements simulations.
+Currently, I'm doing my internship at Laboratoire J.A. Dieudonné Université de Nice Sophia-AnNpolis / CNRS, where I'm developing a numerical tool to extract 3D geometries from experimental images of mouse lungs using the Light Sheets technique. My goal is to set up a mesh and a field of mechanical properties of mouse lungs for future finite elements simulations.
 
-- My Education.
-  
-  MASTERS OF SCIENCE (M. Sc.) Mathematics.
-  
-  Mathematical Modeling with application with Finance. University of Cote D'Azur (Erasmus Exchange) ,University of Hamburg (Erasmus Exchange),University of L'Aquila (Programme Coordinator).
-  
- BACHELOR OF SCIENCE (B.S), MATHEMATICS.
- 
- Usmanu Danfodiyo University, Sokoto, Nigeria 2018. 4.91/5.0 GPA
- 
- Coursework: Linear Algebra, Abstract Algebra,Real and Partial  Differntial Equation, Mathematical Modeling, Tensor and Vector Analysis, Real and Vector Analysis,Complex Analysis, Discrete Mathematics, Metric space Topology,Field Theory, Graph Theory, Measure and Integration,Java Programming Language.
- 
-- OTHER CERTIFICATIONS:
-   * <a href="https://github.com/adebowalep/adebowalep/blob/main/Machine%20learning%20in%20python%20with%20scikit-learnbyinria.pdf" target="_blank">Machine Learning in python with scikit-learn by inria</a>
-   *  <a href="https://github.com/adebowalep/adebowalep/blob/main/pytorchfordeeplearningwithpythonbootcamp.pdf" target="_blank">PyTorch for Deep Learning with Python Bootcamp</a>
+I hold a Masters of Science (M.Sc.) in Mathematics with a focus on Mathematical Modeling and Finance from the University of Cote D'Azur (Erasmus Exchange), the University of Hamburg (Erasmus Exchange), and the University of L'Aquila (Programme Coordinator). Additionally, I have a Bachelor of Science (B.S) in Mathematics from Usmanu Danfodiyo University, Sokoto, Nigeria, where I graduated as the best student in my class.
+
+I have experience coding in Python, and I am  scikit-learn and PyTorch. I also have experience dealing with relational databases (MySQL) and non-relational databases, as well as back-end development using PHP and Laravel.
+
+Some of the projects I have worked on include building neural networks from scratch using Numpy and PyTorch, building detection and classification models using Python, PyTorch, and Scikit-Learn, creating a recommendation engine with neural networks and Restricted Boltzman Machines (RBM), building a network using LSTM with NLP to generate character sequences, and implementing semantic segmentation on a custom dataset using a U-Net architecture. Additionally, I have built a VAE to generate new images of handwritten digits.
+
+I won the Best Graduating Student award during my Bachelor's program, and I am looking to collaborate on projects related to Computer Vision.
+
+You can find my resume in <a href="https://github.com/adebowalep/adebowalep/blob/main/suleiman_cv_.pdf" target="_blank">this link</a>. Feel free to reach out to me on Twitter or LinkedIn, or through my email address, suleimanojo3@gmail.com.
 
 
 
 
-- My most relevnt technical skils
-
-   * I have been coding using python
-   *  I have been learning  Machine Learning using scikit-learn and pytorch.
-   * I have experience dealing with relational databases(MySQL) and non-relational databases
-   * I have done backened development using PHP and Laravel 
-   
-- Some of the things I have built:
-   * Built neural network from scratch using Numpy and Pytorch
-   * Built detection and classification models using python, Pytorch and Scikit-Learn
-   * Built recommendation engine with neural networks and Restricted Boltzman Machines(RBM)
-   * Create a Network using LSTM with NLP to generates character sequences 
-   * Built a U-Net architecture to implement semantic segmentation on a custom dataset.
-   * Built a VAE to generate new images of handwritten digits.
-   *
-   
-- Other accomplishments 
-  * I won the best graduating student of my university during my bachelor program 
-
-
-- 💞️ I’m looking to collaborate on Computer Vision   <a href="https://github.com/adebowalep/adebowalep/blob/main/suleiman_cv_.pdf" target="_blank">Resume</a>
-
-- 📫 you can reach me on [Twitter](https://twitter.com/Paragonadey) or [Linkdln](https://www.linkedin.com/in/adebowale-ojo) and my mail address suleimanojo3@gmail.com
-
-
-
-<!---
-adebowalep/adebowalep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
