@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Andreas+MOUZONG;aka+CodeGrill+-+Platform+Engineer;Automate+everything.+Secure+everything.+Observe+everything." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Suleiman+Adebowale+Ojo;MSc+Data+Science+%26+AI+%7C+Data+%26+Cloud+Engineering;Spark+%7C+Azure+%7C+Python+%7C+SQL;Build+reliable+pipelines.+Ship+results." alt="Typing SVG" />
+
 
 ---
 
