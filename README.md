@@ -32,22 +32,43 @@ I enjoy designing **lakehouse-style pipelines**, building **BI-ready semantic la
 
 
 ---
-
 ### 🧰 Tech Toolbox  
 
-> Some tools and technologies I use to build, automate, and scale reliable platforms:
+> Some tools and technologies I use to build **data & ML products** end-to-end (pipelines → analytics → models → delivery):
 
 <p align="center">
+  <!-- Core dev -->
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+
+  <!-- Data / Cloud -->
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="Apache Spark"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+
+  <!-- DevOps / Delivery -->
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
-  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible"/>
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/>
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
+
+  <!-- Data engineering extras -->
+  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka"/>
+  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/>
+  <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png" alt="Hadoop"/>
+
+  <!-- ML / MLOps -->
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/>
+
+  <!-- Monitoring -->
   <img src="https://img.icons8.com/color/48/000000/prometheus-app.png" alt="Prometheus"/>
-  <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana"/>
 </p>
+
+---
+
 
 ---
 
