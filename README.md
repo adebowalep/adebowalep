@@ -1,18 +1,16 @@
-Hello there!
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Andreas+MOUZONG;aka+CodeGrill+-+Platform+Engineer;Automate+everything.+Secure+everything.+Observe+everything." alt="Typing SVG" />
 
-My name is Adebowale, and I'm a graduate student specializing in applied Machine Learning. My passion lies in using AI tools and platforms to create smarter software that solves seemingly unrealistic problems for individuals and businesses.
+---
 
-Currently, I'm doing my internship at Laboratoire J.A. Dieudonné Université de Nice Sophia-AnNpolis / CNRS, where I'm developing a numerical tool to extract 3D geometries from experimental images of mouse lungs using the Light Sheets technique. My goal is to set up a mesh and a field of mechanical properties of mouse lungs for future finite elements simulations.
+### 🧠 About Me
+I'm **YOUR_NAME** — a **Data / Cloud Engineer** with interests in **platform engineering** and **privacy-preserving ML / secure aggregation**.  
+I enjoy building **scalable data platforms**, automating workflows, and turning messy data into reliable products 🚀.
 
-I hold a Masters of Science (M.Sc.) in Mathematics with a focus on Mathematical Modeling and Finance from the University of Cote D'Azur (Erasmus Exchange), the University of Hamburg (Erasmus Exchange), and the University of L'Aquila (Programme Coordinator). Additionally, I have a Bachelor of Science (B.S) in Mathematics from Usmanu Danfodiyo University, Sokoto, Nigeria, where I graduated as the best student in my class.
+- 📍 Based in **France**
+- 🎯 Focus: **Data Engineering • Cloud • MLOps • Security**
+- 🧩 Interests: **Federated Learning, Secure Aggregation, MPC, Verifiable protocols**
 
-I have experience coding in Python, and I am  scikit-learn and PyTorch. I also have experience dealing with relational databases (MySQL) and non-relational databases, as well as back-end development using PHP and Laravel.
-
-Some of the projects I have worked on include building neural networks from scratch using Numpy and PyTorch, building detection and classification models using Python, PyTorch, and Scikit-Learn, creating a recommendation engine with neural networks and Restricted Boltzman Machines (RBM), building a network using LSTM with NLP to generate character sequences, and implementing semantic segmentation on a custom dataset using a U-Net architecture. Additionally, I have built a VAE to generate new images of handwritten digits.
-
-I won the Best Graduating Student award during my Bachelor's program, and I am looking to collaborate on projects related to Computer Vision.
-
-You can find my resume in <a href="https://github.com/adebowalep/adebowalep/blob/main/suleiman_cv_.pdf" target="_blank">this link</a>. Feel free to reach out to me on Twitter or LinkedIn, or through my email address, suleimanojo3@gmail.com.
+> *“Make it work. Make it robust. Make it secure.”*
 
 
 
