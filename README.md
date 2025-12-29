@@ -6,13 +6,7 @@
 ### 🧠 About Me
 I'm **Suleiman Adebowale Ojo** — a **Data Scientist / Data Engineer** who builds **end-to-end data & ML products**: from raw data ingestion and transformation to analytics, modeling, and production delivery.
 
-I enjoy designing **lakehouse-style pipelines**, building **BI-ready semantic layers**, and training/deploying **ML models** that actually get used. I care about **data quality, scalability, and reproducible workflows** 🚀
-
-- 📍 Based in **France (Nice)**  
-- 🎯 Target roles: **Data Scientist • Data Engineer • ML Engineer**  
-- 🧱 Core stack: **Python • SQL • PySpark/Spark • Azure Databricks/Lakehouse • Power BI (DAX)**  
-- ⚙️ ML focus: **feature engineering, evaluation, and deployment-ready pipelines**  
-- 🔐 Interests: **MLOps + trustworthy AI (privacy-aware / secure aggregation ideas)**  
+I enjoy designing **lakehouse-style pipelines**, building **BI-ready semantic layers**, and training/deploying **ML models** that actually get used. I care about **data quality, scalability, and reproducible workflows** 🚀 
 
 > *“From data to decisions — reliably.”*
 
