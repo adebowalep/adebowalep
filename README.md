@@ -56,12 +56,12 @@ I enjoy designing **lakehouse-style pipelines**, building **BI-ready semantic la
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/>
 
   <!-- Data engineering extras -->
-  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka"/>
+  <img src="https://img.icons8.com/nolan/1200/apache-kafka.jpg" width="48" height="48" alt="Kafka"/>
   <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/>
   <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png" alt="Hadoop"/>
 
-  <!-- ML / MLOps -->
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/>
+  <!-- ML -->
+  <img src="https://img.icons8.com/arcade/1200/pytorch.jpg" width="48" height="48" alt="PyTorch"/>
 
   <!-- Monitoring -->
   <img src="https://img.icons8.com/color/48/000000/prometheus-app.png" alt="Prometheus"/>
@@ -71,46 +71,43 @@ I enjoy designing **lakehouse-style pipelines**, building **BI-ready semantic la
 
 
 ---
-
 ### 🧩 What I Build
-- **Reliable CI/CD Pipelines** – from code commit to production.  
-- **Cloud Infrastructure as Code** – scalable, repeatable, secure.  
-- **Kubernetes Clusters & Home Labs** – for real-world simulations and testing.  
-- **Event-driven Architectures** – powered by Kafka for asynchronous systems.  
-- **Observability Stacks** – full telemetry and alerting pipelines.  
-- **AI-Augmented DevOps Tools** – using LLMs to automate analysis and platform ops.  
-- **Ansible Roles & Playbooks** – for configuration management and automation.  
-- **Internal Developer Platforms (IDPs)** – improving developer experience.   
+- **Lakehouse ETL/ELT pipelines (Databricks)** – PySpark ingestion + transformation with schema enforcement, partitioning, layered architecture, and incremental refresh for near real-time availability.  
+- **Analytics-ready data models** – curated **star schemas / fact-dimension tables** that power fast analytical queries and reliable downstream consumption.  
+- **Power BI dashboards & semantic layers** – KPI and market-share reporting with **DAX (TREATAS, scaffold tables)**, drill-downs, and custom visuals (Deneb / Charticulator).  
+- **Production-minded ML models** – scalable ML workflows (Spark + Python) and hybrid approaches (classical features + deep learning) for real business forecasting/prediction.  
+- **Experimentation & statistical analysis** – hypothesis testing / A/B testing and model evaluation to validate impact and reduce guesswork.  
+- **MLOps & reproducible workflows** – versioned experimentation, tracking, and deployment-ready pipelines (e.g., MLflow-style lifecycle).  
+- **CI/CD & cloud delivery** – automated deployments with **Jenkins, Docker, Kubernetes, Helm, ArgoCD, SonarQube** (AWS/Azure environments) to ship reliably.
+  
 
 ---
 
 ### 🧰 Featured Projects
+| Project                                                                                                            | Description                                                                                                               | Tech                                         |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [🧠 Reddit Mental Health NLP Classifier](https://github.com/adebowalep/reddit-mental-health-nlp-classifier)        | End-to-end NLP pipeline (cleaning → modeling → evaluation) with a deployable demo app.                                    | Python, Transformers, CatBoost, Docker       |
+| [☁️ Azure HDF5 Sync Pipeline](https://github.com/adebowalep/azure-hdfs-sync)                                       | Data engineering pipeline to sync simulation outputs between local storage and Azure Blob (downloads only missing files). | Python, Azure Blob Storage                   |
+| [🧪 Mouse Lung 3D Segmentation](https://github.com/adebowalep/Segmentation_of_mouse_lungs-)                        | Classical CV pipeline for 3D segmentation of light-sheet microscopy volumes + export to 3D Slicer/ITK-SNAP.               | Python, Image Processing, Watershed, K-Means |
+| [⚙️ MLOps Pipeline with DVC](https://github.com/adebowalep/ml_pipeline_with_dvc)                                   | Reproducible ML pipeline with experiment/config tracking structure (DVC stages + params).                                 | Python, DVC, GitHub Actions                  |
+| [🚀 DevOps CI/CD on AWS (Jenkins → K8s)](https://github.com/adebowalep/devOps-)                                    | Jenkins on EC2, Docker agent setup, CI/CD pipeline and Kubernetes deployment workflow.                                    | AWS EC2, Jenkins, Docker, Kubernetes         |
+| [📝 Essay Rating Prediction + Web App](https://github.com/adebowalep/EssayRatingPrediction)                        | ML project to predict essay scores, with a Streamlit app for interaction.                                                 | Python, NLP, Streamlit                       |
+| [🔎 Deep OCR for License Plates](https://github.com/adebowalep/Deep-Learning-based-Optical-Character-Recognition.) | Deep-learning OCR system for 5-digit license plates, trained with TensorFlow/Keras.                                       | TensorFlow/Keras, CNN+LSTM                   |
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [🔧 Platform Engineering Portfolio](https://github.com/mouzong/platform-engineering-portfolio) | My end-to-end showcase: IaC, CI/CD, Kubernetes, Observability, Security. | Terraform, Jenkins, K8s |
-| [☁️ Cloud Playground](https://github.com/mouzong/cloud-playground) | Experimental IaC setups for AWS and GCP. | Terraform, Ansible |
-| [📊 Observability Stack](https://github.com/mouzong/observability-stack) | Complete monitoring solution with Prometheus, Grafana & Loki. | Docker, Helm, K8s |
-| [🚀 CI/CD Blueprints](https://github.com/mouzong/ci-cd-blueprints) | Reusable CI/CD pipeline templates. | GitHub Actions, ArgoCD |
-| [🧰 Ansible Roles Collection](https://github.com/mouzong/ansible-roles-collection) | Production-grade Ansible roles for servers, apps & monitoring. | Ansible, Linux |
-| [💡 Ansible Playbook Examples](https://github.com/mouzong/ansible-playbooks) | Real-world playbooks for provisioning, deployment & patching. | Ansible |
-| [📦 Event Streaming Lab](https://github.com/mouzong/event-kafka-lab) | Experiments with Apache Kafka for real-time event processing. | Kafka, Docker, Python |
-| [🏠 Home Lab (5-node K8s)](https://github.com/mouzong/homelab-k8s) | My private 5-node Kubernetes cluster setup for learning, observability & experiments. | K8s, K3s, Terraform |
-| [⚙️ Dotfiles & Dev Environment](https://github.com/mouzong/dotfiles) | My personalized Linux environment setup with automation and scripts. | Zsh, Neovim, Linux |
-| [🔥 CodeGrill Projects](https://github.com/mouzong/codegrill-projects) | The CodeGrill ecosystem – tutorials, demos, and community projects. | Python, Go, Java, Spring Boot, Docker |
+
 
 
 ---
 
 ### 📈 GitHub Stats & Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouzong&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouzong&layout=compact&langs_count=15&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adebowalep&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adebowalep&layout=compact&langs_count=15&theme=tokyonight&count_private=true&hide_border=true" height="165" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouzong&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adebowalep&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -119,33 +116,27 @@ I enjoy designing **lakehouse-style pipelines**, building **BI-ready semantic la
 ### 🌍 Connect with Me
 
 <p align="left">
-  <a href="https://t.me/CodeGrill" target="_blank">
-    <img src="https://img.icons8.com/color/28/telegram-app--v1.png" alt="telegram"/> <b>Telegram</b>
-  </a>  
-  &nbsp;&nbsp;
-  <a href="mailto:andreasmouzong@gmail.com">
+  <a href="mailto:suleimanojo3@gmail.com">
     <img src="https://img.icons8.com/color/28/gmail-new.png" alt="gmail"/> <b>Gmail</b>
   </a>  
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/andreas-mouzong">
+  <a href="https://linkedin.com/in/adebowale-ojo">
     <img src="https://img.icons8.com/color/28/linkedin.png" alt="linkedin"/> <b>LinkedIn</b>
   </a>  
   &nbsp;&nbsp;
-  <a href="https://youtube.com/@codegrill">
-    <img src="https://img.icons8.com/color/28/youtube-play.png" alt="youtube"/> <b>YouTube</b>
-  </a>  
+  <a href="https://x.com/Paragonadey">
+    <img src="https://img.icons8.com/color/28/twitterx--v1.png" alt="x"/> <b>X</b>
+  </a>
   &nbsp;&nbsp;
   <a href="https://www.kernel.org/">
     <img src="https://img.icons8.com/color/28/linux.png" alt="linux"/> <b>Linux Enthusiast</b>
   </a>
 </p>
 
----
-
+--- 
 ### ⚡ Fun Fact
-When I’m not automating deployments or debugging pipelines,  
-I’m either teaching tech concepts on **YouTube (CodeGrill)**,  
-playing **basketball 🏀**, or doing **judo 🥋**.  
+When I’m not building data pipelines or deploying ML workflows,
+I’m mentoring others in tech, playing basketball 🏀, or going hiking 🥾
 
 ---
 
