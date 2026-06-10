@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B+I%27m+Suleiman+Adebowale+Ojo;AI+%2F+Data+Engineer;PySpark+%C2%B7+Databricks+%C2%B7+MLOps+%C2%B7+Agentic+AI+Workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=32CD32&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B+I%27m+Suleiman+Adebowale+Ojo;AI+%2F+Data+Engineer;PySpark+%C2%B7+Databricks+%C2%B7+MLOps+%C2%B7+Agentic+AI+Workflows" alt="Typing SVG" />
 
-**AI/Data Engineer · PySpark · Databricks · MLOps · Agentic AI Workflows**
+**AI/Data Engineer · PySpark · Databricks · Agentic AI · Microsoft Fabric**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adebowale--ojo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adebowale-ojo)
 [![Email](https://img.shields.io/badge/Email-suleimanojo3@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suleimanojo3@gmail.com)
@@ -14,13 +14,13 @@
 
 ### About Me
 
-I build **production-grade data pipelines, ML systems, and agentic AI workflows** — grounded in a strong foundation in mathematics.
+I build **production-grade data pipelines, ML systems, and agentic AI workflows** — grounded in a strong foundation in mathematics and statistics.
 
-- 🎓 **Applied MSc in Data Science & AI** — DSTI School of Engineering, Nice · First Class / Summa Cum Laude (85%)
-- 🎓 **Joint MSc in Mathematical Modelling** — MathMods Erasmus · University of L'Aquila · University of Hamburg · Université Côte d'Azur
-- 🎓 **BSc Mathematics** — Usmanu Danfodiyo University · First Class (4.91 / 5.00)
+- **Applied MSc in Data Science & AI** — DSTI School of Engineering, Nice · First Class / Summa Cum Laude (85%)
+- **Joint MSc in Mathematical Modelling** — MathMods Erasmus · University of L'Aquila · University of Hamburg · Université Côte d'Azur
+- **BSc Mathematics** — Usmanu Danfodiyo University · First Class (4.91 / 5.00)
 
-At **Amadeus**, I built PySpark ETL/ELT pipelines, a production Transformer-based QSI demand prediction model, and Power BI dashboards on Azure Databricks using a medallion lakehouse architecture. Before that, I automated CI/CD infrastructure on AWS with Jenkins, Kubernetes, and Docker.
+At **Amadeus**, I built PySpark ETL/ELT pipelines, a production Transformer-based QSI demand prediction model, and Power BI dashboards on Azure Databricks using a medallion lakehouse architecture. I also automated CI/CD infrastructure on AWS using Jenkins, Kubernetes, and Docker.
 
 Currently focused on agentic AI workflows, Microsoft Fabric, and portfolio-grade data engineering projects.
 
@@ -30,10 +30,10 @@ Currently focused on agentic AI workflows, Microsoft Fabric, and portfolio-grade
 
 | Domain | Description |
 |---|---|
+| **Agentic AI** | LLM-powered multi-agent systems, tool use, structured output, evaluation-driven orchestration |
 | **Lakehouse Pipelines** | PySpark ELT with medallion architecture, Delta Lake, schema enforcement, incremental refresh |
-| **Analytics & BI** | Power BI semantic layers, DAX (TREATAS, scaffolds), Deneb/Charticulator visuals, star schemas |
 | **ML & MLOps** | Scalable model training, experiment tracking (MLflow), DVC pipelines, deployment-ready workflows |
-| **Agentic AI** | LLM-powered multi-agent systems, tool use, structured workflow orchestration |
+| **Analytics & BI** | Power BI semantic layers, DAX, Deneb/Charticulator visuals, star schemas |
 | **DevOps / Cloud** | Jenkins, Docker, Kubernetes, Helm, ArgoCD, Terraform on AWS and Azure |
 
 ---
@@ -53,7 +53,6 @@ Currently focused on agentic AI workflows, Microsoft Fabric, and portfolio-grade
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat&logo=delta&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt_(learning)-FF694B?style=flat&logo=dbt&logoColor=white)
 
 **AI / Machine Learning**
@@ -84,13 +83,13 @@ Currently focused on agentic AI workflows, Microsoft Fabric, and portfolio-grade
 
 | # | Project | Description | Stack |
 |---|---|---|---|
-| 🤖 | [**Agentic Project Management Workflow**](https://github.com/adebowalep/agentic-project-management-workflow) | Multi-agent LLM system for project planning, task tracking and reporting automation | Python · OpenAI · LangGraph · Agentic AI |
-| ⚡ | [**PySpark Databricks Lakehouse Pipeline**](https://github.com/adebowalep/pyspark-databricks-lakehouse-pipeline) | Production-style ELT pipeline with medallion architecture, Delta Lake, and star schema modelling | PySpark · Databricks · Delta Lake · Azure |
+| 🤖 | [**Agentic Project Management Workflow**](https://github.com/adebowalep/ai-agentic-project-management-workflow) | Multi-agent LLM system transforming product specs into user stories, engineering tasks, evaluation feedback, and execution plans | Python · OpenAI · Agentic AI |
+| 🗺️ | [**Agentsville AI Trip Planner**](https://github.com/adebowalep/agentsville-ai-trip-planner) | AI agent system for personalized trip planning — tool use, structured outputs, Pydantic validation, evaluation-driven itinerary revision | Python · OpenAI · Pydantic · Agents |
 | 🧪 | [**MLOps Pipeline with DVC**](https://github.com/adebowalep/ml_pipeline_with_dvc) | Reproducible ML pipeline with DVC data versioning, MLflow experiment tracking, and GitHub Actions CI | Python · DVC · MLflow · GitHub Actions |
-| 🧠 | [**Reddit Mental Health NLP Classifier**](https://github.com/adebowalep/reddit-mental-health-nlp-classifier) | End-to-end NLP text classification pipeline with a deployable Streamlit demo app | Python · Transformers · CatBoost · Docker |
-| ☁️ | [**Azure HDF5 Sync Pipeline**](https://github.com/adebowalep/azure-hdfs-sync) | Data engineering utility — syncs simulation outputs to Azure Blob Storage with incremental logic | Python · Azure Blob Storage |
+| 🧠 | [**Reddit Mental Health NLP Classifier**](https://github.com/adebowalep/reddit-mental-health-nlp-classifier) | End-to-end NLP classification pipeline across 16 mental-health categories with a deployable Streamlit demo | Python · Transformers · CatBoost · Docker |
+| ☁️ | [**Azure HDF5 Sync Pipeline**](https://github.com/adebowalep/azure-hdfs-sync) | Lightweight data engineering utility — syncs simulation outputs to Azure Blob Storage with incremental logic | Python · Azure Blob Storage · SDK |
 | 🚀 | [**DevOps CI/CD on AWS + Kubernetes**](https://github.com/adebowalep/devOps-) | Full CI/CD pipeline: Jenkins on EC2, Docker agents, SonarQube, Helm, ArgoCD / GitOps | AWS · Jenkins · Docker · Kubernetes · Helm |
-| 🔎 | [**Deep OCR for License Plates**](https://github.com/adebowalep/Deep-Learning-based-Optical-Character-Recognition.) | CNN+LSTM OCR system for license plate recognition with CTC decoding | TensorFlow · Keras · CNN · LSTM |
+| 🔊 | [**wav2vec2 Layer Probing**](https://github.com/adebowalep/wav2vec2-layer-probing) | Research: layer-wise probing of wav2vec2-base to study where spoken digit and speaker information emerge in SSL speech representations | Python · PyTorch · Hugging Face |
 | 🔬 | [**Mouse Lung 3D Segmentation**](https://github.com/adebowalep/Segmentation_of_mouse_lungs-) | Research CV pipeline for 3D segmentation of light-sheet microscopy volumes; exported to ITK-SNAP / 3D Slicer | Python · Watershed · K-Means · Image Processing |
 
 ---
@@ -109,10 +108,10 @@ Currently focused on agentic AI workflows, Microsoft Fabric, and portfolio-grade
 
 ### Currently Building
 
-- 🤖 Agentic AI workflow systems — multi-agent orchestration with LLM tool use
-- 🏗️ Microsoft Fabric / Lakehouse data engineering projects
-- 📦 PySpark / Databricks production pipeline portfolio
-- 🔬 MLOps pipelines with DVC, MLflow, and CI/CD integration
+- Agentic AI workflow systems — multi-agent orchestration with LLM tool use
+- Microsoft Fabric / Lakehouse data engineering projects
+- PySpark / Databricks production pipeline portfolio
+- MLOps pipelines with DVC, MLflow, and CI/CD integration
 
 ---
 
@@ -120,8 +119,8 @@ Currently focused on agentic AI workflows, Microsoft Fabric, and portfolio-grade
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adebowalep&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebowalep&layout=compact&langs_count=10&theme=tokyonight&count_private=true&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=adebowalep&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adebowalep&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
@@ -129,6 +128,6 @@ Currently focused on agentic AI workflows, Microsoft Fabric, and portfolio-grade
 
 <div align="center">
 
-*When I'm not building pipelines or deploying models, I'm mentoring others in tech, playing basketball 🏀, or hiking 🥾*
+*When I'm not building pipelines or deploying models, I'm mentoring others in tech, playing basketball, or hiking.*
 
 </div>
