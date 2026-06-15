@@ -96,8 +96,6 @@ Currently focused on agentic AI workflows, Microsoft Fabric, and portfolio-grade
 
 ### Certifications
 
-
-![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-Graph_Data_Science_Certified-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-AI_Agents_Fundamentals-FFD21E?style=flat&logo=huggingface&logoColor=black)
